@@ -1,0 +1,18 @@
+@media screen and (min-width: 500px) {
+  mat-card {
+    max-width: 500px;
+  }
+}
+@media screen and (max-width: 500px) {
+  mat-card {
+    max-width: 100vw;
+  }
+}
+
+.answers {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 15px 0;
+  align-items: flex-start;
+}

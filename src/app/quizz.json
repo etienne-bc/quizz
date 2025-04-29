@@ -1,0 +1,107 @@
+{
+  "title": "l'académie française",
+  "questions": [
+    {
+      "image": "https://www.dictionnaire-academie.fr/images/accueil/03.jpg",
+      "question": "Le dernier tome du dictionnaire de l'académie française est sortie en novembre 2024, à quand remonte l'édition précédente ?",
+      "answers": [
+        { "answer": "1935", "correct": true },
+        { "answer": "1945", "correct": false },
+        { "answer": "1955", "correct": false },
+        { "answer": "1965", "correct": false }
+      ]
+    },
+
+    {
+      "image": "https://www.apgf.fr/wp-content/uploads/2009/02/061.jpg",
+      "question": "Dans le dictionnaire de l'académie, quelle définition du mot MAIL n'apparait PAS ?",
+      "answers": [
+        {
+          "answer": "Petite masse cylindrique de bois, fixée à un long manche, dont on se servait pour jouer",
+          "correct": false
+        },
+        {
+          "answer": "Document numérique qu’un utilisateur saisit, envoie ou consulte en différé par l’intermédiaire d’un ordinateur",
+          "correct": true
+        },
+        {
+          "answer": "Promenade publique spacieuse et généralement plantée d’arbres",
+          "correct": false
+        },
+        {
+          "answer": "Gros marteau dont le carrier se sert pour enfoncer les coins entre les joints",
+          "correct": false
+        }
+      ]
+    },
+
+    {
+      "image": "https://www.fondapol.org/app/uploads/2020/10/17-03-2014.png",
+      "question": "Suite à sa fondation en 1634 combien d'année faudra-t-il attendre avant qu'un homme de lettre puisse sièger ?",
+      "answers": [
+        {
+          "answer": "3 ans avec La fontaine (père)",
+          "correct": false
+        },
+        {
+          "answer": "23 ans avec Molière",
+          "correct": false
+        },
+        {
+          "answer": "53 ans avec Racine",
+          "correct": false
+        },
+        {
+          "answer": "93 ans avec Montesquieu",
+          "correct": true
+        }
+      ]
+    },
+
+    {
+      "image": "https://play-lh.googleusercontent.com/E5MMJKReOuAj4XmcqOZUWQF103SH8ynV7F8NvzyFJtmZSqtI3Oj2PSlr6lv0mcrZ4Q",
+      "question": "Avec le dictionnaire, l'académie est en charge de composer 4 ouvrages de référence, cherchez l'intru",
+      "answers": [
+        {
+          "answer": "une Grammaire",
+          "correct": false
+        },
+        {
+          "answer": "Une poétique",
+          "correct": false
+        },
+        {
+          "answer": "Une Rhétorique",
+          "correct": false
+        },
+        {
+          "answer": "des articles réactionnaires dans le figaro",
+          "correct": true
+        }
+      ]
+    },
+
+    {
+      "image": "https://www.parismuseescollections.paris.fr/sites/default/files/styles/pm_notice/public/atoms/images/GAL/41561-4.jpg?itok=McmzSGvY",
+      "question": "Statistiquement, quelle profession vous donne le moins de chance de devenir immortel ?",
+      "answers": [
+        {
+          "answer": "Militaire",
+          "correct": false
+        },
+        {
+          "answer": "Linguiste",
+          "correct": true
+        },
+        {
+          "answer": "Homme d'Église",
+          "correct": false
+        },
+        {
+          "answer": "Noble (sans profession)",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
